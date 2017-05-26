@@ -2,7 +2,7 @@
 
 #### Desenvolvedor Front End
 
-[lpassosjr@gmail.com](mailto:lpassosjr@gmail.com) | [Github](http://github.com/lpassosjr) | [Telefone](tel: +5511974960783) | [LinkedIn]( https://www.linkedin.com/in/luiz-roberto-g-dos-passos-junior-55a891109/)
+[lpassosjr@gmail.com](mailto:lpassosjr@gmail.com) | [Github](http://github.com/lpassosjr) | [Telefone](tel:+5511974960783) | [LinkedIn]( https://www.linkedin.com/in/luiz-roberto-g-dos-passos-junior-55a891109/)
 
 
 ## Sobre
