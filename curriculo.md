@@ -24,14 +24,21 @@ Tenho 23 anos, sou de Santos - SP, atualmente trabalho como Auxiliar de Gerênci
 *   PHP 
 
 ## Trabalhos recentes
-* [Danone – Sabor de Viver](http://www.sabordeviver.com.br/) - Colaborei com o desenvolvimento da loja no ambiente Vtex, implantei o sistema de desconto progressivo e hoje estamos desenvolvendo a nova loja Sabor de Viver em outro ambiente (Magento).
+* [Danone – Sabor de Viver](http://www.sabordeviver.com.br/) - Desenvolvimento da loja atual no ambiente Vtex, implantei o sistema de desconto progressivo e hoje estou participanto de equipe de desenvolvendo da nova loja Sabor de Viver no ambiente Magento.
+
 * Cacau Show - Desenvolvimento do sistema de franquias, com integração de Dados via API Vtex e criação de raios de abrangência ao atendimento para cada franquia com inserção automática na Plataforma Vtex.
-* Suvinil - Criação de raios de abrangência ao atendimento para cada franquia com inserção automática na Plataforma Vtex.
-* [Chevrolet Fan Store](http://www.chevroletfanstore.com.br/) - Colaborei com o desenvolvimento da loja no ambiente Vtex.
-* [Pierre Cardin Store](http://store.pierrecardin.com.br/) - Colaborei com o desenvolvimento da loja no ambiente Vtex.
-* [Empório Santa Luzia](http://www.natalsantaluzia.com.br/) - Colaborei com o desenvolvimento da loja no ambiente Vtex e criei o sistema de integração do ambiente com o ERP da loja física.
-* [Flutuar Surf](http://www.lojaflutuar.com.br/) - Colaborei com o desenvolvimento da loja no ambiente Vtex.
-* [Purificadores Europa](http://www.europa.com.br/) - Colaborei com o desenvolvimento da loja no ambiente Vtex e com o WordPress.
+
+* Suvinil - Criação de raios de abrangência (sem o uso de API). Delimitando o atendimento para cada franquia com inserção automática na Plataforma Vtex.
+
+* [Chevrolet Fan Store](http://www.chevroletfanstore.com.br/) - Desenvolvimento da loja no ambiente Vtex.
+
+* [Pierre Cardin Store](http://store.pierrecardin.com.br/) - Desenvolvimento da loja no ambiente Vtex.
+
+* [Empório Santa Luzia](http://www.natalsantaluzia.com.br/) - Desenvolvimento da loja no ambiente Vtex e criei o sistema de integração do ambiente com o ERP da loja física.
+
+* [Flutuar Surf](http://www.lojaflutuar.com.br/) - Desenvolvimento da loja no ambiente Vtex.
+
+* [Purificadores Europa](http://www.europa.com.br/) - Desenvolvimento da loja no ambiente Vtex e com o WordPress.
 
 ## Formação
 
