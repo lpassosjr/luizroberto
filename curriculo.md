@@ -51,9 +51,6 @@ Tenho 23 anos, sou de Santos - SP, atualmente trabalho como Auxiliar de Gerênci
 `2011 – 2013` - Licenciatura em Matemática 
 **IF-SP - Instituto Federal de Educação Ciências e Tecnologia**
 
-`2016`-Certificações Vtex Partner
-**FrontEnd Developer**
-**Support**
 
 ## Experiência
 
