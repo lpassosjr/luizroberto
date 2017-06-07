@@ -7,15 +7,16 @@
 
 ## Sobre
 
-Olá, eu sou o Luiz Roberto, seja bem vindo.
-Tenho 23 anos, sou de Santos - SP, atualmente trabalho como Desenvolvedor Front End na [Sanders Digital](http://www.sandersdigital.com.br/). Estou sempre em busca de conhecimento, colaboração na comunidade web e novos desafios.
+Olá, eu sou o Luiz Roberto.
+Tenho 23 anos, sou de Santos - SP, atualmente trabalho como Auxiliar de Gerência em Tecnologia e Desenvolvedor Front End na [Sanders Digital](http://www.sandersdigital.com.br/) onde tenho desenvolvido diversos projetos, implatações de e-commerce em diversas plataformas como VTex, EZ, Rakuten e Magento. Também com a criação de ambientes para gerenciamento e cadastro de franquias de forma dinâmica na plataforma Vtex e criação de ferramentas baseadas nas API's Vtex. Estou sempre em busca de conhecimento, colaboração na comunidade web e novos desafios.
 
 ## Habilidades Web
 
 *   HTML5 / CSS3 / SCSS / JavaScript
+*   Jquery
 *   Sass /NodeJS
 *   Git / Grunt 
-*   Wordpress / Magento / VTex / Core
+*   Wordpress / Magento / VTex / EZ-Core
 
 ## Habilidades de TI, Back End
 
@@ -23,16 +24,19 @@ Tenho 23 anos, sou de Santos - SP, atualmente trabalho como Desenvolvedor Front 
 *   PHP 
 
 ## Trabalhos recentes
-* [Danone – Sabor de Viver](http://www.sabordeviver.com.br/)
-* [Chevrolet fan store](http://www.chevroletfanstore.com.br/)
-* [Pierre Cardin store](http://store.pierrecardin.com.br/)
-* [Flutuar Surf](http://www.lojaflutuar.com.br/)
-* [Purificadores Europa](http://www.europa.com.br/)
+* [Danone – Sabor de Viver](http://www.sabordeviver.com.br/) - Colaborei com o desenvolvimento da loja no ambiente Vtex, implantei o sistema de desconto progressivo e hoje estamos desenvolvendo a nova loja Sabor de Viver em outro ambiente (Magento).
+* Cacau Show - Desenvolvimento do sistema de franquias, com integração de Dados via API Vtex e criação de raios de abrangência ao atendimento para cada franquia com inserção automática na Plataforma Vtex.
+* Suvinil - Criação de raios de abrangência ao atendimento para cada franquia com inserção automática na Plataforma Vtex.
+* [Chevrolet Fan Store](http://www.chevroletfanstore.com.br/) - Colaborei com o desenvolvimento da loja no ambiente Vtex.
+* [Pierre Cardin Store](http://store.pierrecardin.com.br/) - Colaborei com o desenvolvimento da loja no ambiente Vtex.
+* [Empório Santa Luzia](http://www.natalsantaluzia.com.br/) - Colaborei com o desenvolvimento da loja no ambiente Vtex e criei o sistema de integração do ambiente com o ERP da loja física.
+* [Flutuar Surf](http://www.lojaflutuar.com.br/) - Colaborei com o desenvolvimento da loja no ambiente Vtex.
+* [Purificadores Europa](http://www.europa.com.br/) - Colaborei com o desenvolvimento da loja no ambiente Vtex e com o WordPress.
 
 ## Formação
 
 `2010` - Ensino Médio  
- **Leopoldo José de sant’anna**
+ **Leopoldo José de Sant’anna**
 
 `2015` - Lógica de programação  
  **SENAI São Paulo (EAD)**
@@ -40,7 +44,11 @@ Tenho 23 anos, sou de Santos - SP, atualmente trabalho como Desenvolvedor Front 
 `2011 – 2013` - Licenciatura em Matemática 
 **IF-SP - Instituto Federal de Educação Ciências e Tecnologia**
 
+`2016`-Certificações Vtex Partner
+**FrontEnd Developer**
+**Support**
+
 ## Experiência
 
-*   Desenvolvedor Front End **[Sanders Digital]( http://www.sandersdigital.com.br/)**, São Paulo, SP - `2016 (Atual)`
+*   Auxiliar de Gerência em Tecnologia / Desenvolvedor Front-End **[Sanders Digital]( http://www.sandersdigital.com.br/)**, São Paulo, SP - `02/2016 (Atual)`
 
