@@ -100,7 +100,7 @@ Os produtos derveram ser setados dentro do campo "**data-sku**" separados por es
 ```
 ## Classes Disponíveis
 
-**.center** classe para posicionamento 100% em relação a classe pai.
+**.center** classe para posicionamento 100% em relação a classe pai.---
 **.left/.right** classes para posionamento 50% em relação a div pai, sendo que left possui ``` float:left ``` e assim respectivamente.
 **.half** classe criada para posicionamento de mini banners centralizados, possui ``` width:600px ``` e alinhamento centralizado.
 **.t-left/.t-right/.t-center** classes para alinhamento de texto, adicionando a propriedade ` text-align ` com o sufixo da classe.
