@@ -100,19 +100,49 @@ Os produtos derveram ser setados dentro do campo "**data-sku**" separados por es
 ```
 ## Classes Disponíveis
 
-**.center** classe para posicionamento 100% em relação a classe pai.---
+**.center** classe para posicionamento 100% em relação a classe pai.
+
+
 **.left/.right** classes para posionamento 50% em relação a div pai, sendo que left possui ``` float:left ``` e assim respectivamente.
+
+
 **.half** classe criada para posicionamento de mini banners centralizados, possui ``` width:600px ``` e alinhamento centralizado.
+
+
 **.t-left/.t-right/.t-center** classes para alinhamento de texto, adicionando a propriedade ` text-align ` com o sufixo da classe.
+
+
 **.b-top/.b-bottom/.b-left/.b-right** classes para adição de borda ao elemento, sera adicionado ` border-left ` caso use a classe **t-left** e assim respectivamente.
-**.title** classe para elementos de titulos, adiciona `text-transform: uppercase` e `font-size: 19px` 
-**.text** classe para paragrafos, adiciona `font-size: 14px` e `margin: 0`
+
+
+**.title** classe para elementos de titulos, adiciona `text-transform: uppercase` e `font-size: 19px`.
+
+
+**.text** classe para paragrafos, adiciona `font-size: 14px` e `margin: 0`.
+
+
 **.t-link** classe adicionada a links que estejam contidos em paragrafos, recebem a mesma formatação da classe **.text** com a adição da propriedade ` text-decoration: underline `.
+
+
 **.link** classe usada para links de modo geral, segue o padrão de formatação da classe **.title**.
+
+
 **.description-list** classe para listas na seguinte estrutura `ul>li`.
+
+
 **.banner-text** classe para banner com caixa de texto.
+
+
 **.background-text** classe que prepara o box de texto dos banner, sendo obrigado a ter como pai a classe **.banner-text**.
+
+
 **.banner-slider** classe que prepara os controles do plugin _bx-slider_.
+
+
 **.i-menu** classe que prepara o menu interativo, uma vez que o menu respeita a estrutura imposta neste documento.
+
+
 **.shelf-article** classe esperada em toda shelf, alinha elementos dentro da shelf.
+
+
 **.shelf-slider** classe esperada em shelf que tenham slider, ela prepara os controles para o _bx-slider_.
