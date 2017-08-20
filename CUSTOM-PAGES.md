@@ -3,10 +3,10 @@
 ## Grids
 
 #### full div
-Usar a classe "center" em todos os elementos que terão o width de 100%.
+Usar a classe "center" em todos os elementos que terão  `width: 100%`.
 #### left e right div's
-Usado para criar blocos com posições paralelas e width de 50% em relação a classe pai. 
->As posições já recebem por padrão a propriedade de "float" do respectivo nome da classe.
+Usado para criar blocos com posições paralelas e `width: 50%` em relação a classe pai. 
+>As posições já recebem por padrão a propriedade de `float` do respectivo nome da classe.
 
 **exemplo:**
 ``` html
@@ -16,7 +16,7 @@ Usado para criar blocos com posições paralelas e width de 50% em relação a c
     </div> 
 ```
 #### half div
-Box usado para elementos com width padrão de 600px, ficando alinhado ao centro da div pai. Ficando chumbada a classe "center" como pai. 
+Box usado para elementos com `width: 600px`, ficando alinhado ao centro da div pai.
 >_Posição criada para suprir a nescessidade de mini banners centralizados._ 
 
 **exemplo:**
@@ -38,10 +38,10 @@ Título padrão.
 Texto padrão.
 **exemplo:**
 ```html
-    <p class="text t-center">example text with align</p>
+    <p class="text">example text</p>
 ```
 #### Link
-Links estao esperando duas situações:
+Links estão esperando duas situações:
 + links em meio ao texto
  ```html
     <a href="#mylink" class="t-link">my link</a>
@@ -50,8 +50,8 @@ Links estao esperando duas situações:
  ```html
     <a href="#mylink" class="link">general link</a>               
  ```
- ### Menu Interativo
- Os menus interativos receberam em seus links o Id dos elementos que eles vão indicar.
+#### Menu Interativo
+ Os menus interativos receberão em seus links o `Id` dos elementos que indicarão.
  **exemplo:**
  ```html
     <div class="i-menu">
@@ -61,8 +61,8 @@ Links estao esperando duas situações:
         <div class=""><a href="#id4">content i-menu</a></div>
     </div>
  ```
- ### Banner
-Os banners estao esperando 3 sitações que descreveremos detalhadamente nos exemplos, entretando todas situações de banners compartilham como estrutura comum estar chumbado a classe "center" para facilitar o posicionamento.
+#### Banner
+Os banners estão esperando 3 sitações que descreveremos detalhadamente nos exemplos, entretanto todas as situações de banners compartilham como estrutura comum estar chumbado a classe "center" para facilitar o posicionamento.
  + Banner simples
  ```html
      <div class="center banner">
@@ -86,7 +86,7 @@ Os banners estao esperando 3 sitações que descreveremos detalhadamente nos exe
         </div>
     </div>   
  ```
- #### Shelf's
+#### Shelf's
  
 As shelfs estão esperando duas situações de apresentação dos produtos, como Lista ou Slides.
 Os produtos derveram ser setados dentro do campo "**data-sku**" separados por espaços da seguinte forma ``` data-sku="sku1 sku2 sku3 sku4" ```
@@ -115,13 +115,13 @@ Os produtos derveram ser setados dentro do campo "**data-sku**" separados por es
 **.b-top/.b-bottom/.b-left/.b-right** classes para adição de borda ao elemento, sera adicionado ` border-left ` caso use a classe **t-left** e assim respectivamente.
 
 
-**.title** classe para elementos de titulos, adiciona `text-transform: uppercase` e `font-size: 19px`.
+**.title** classe para títulos, adiciona `text-transform: uppercase` e `font-size: 19px`.
 
 
-**.text** classe para paragrafos, adiciona `font-size: 14px` e `margin: 0`.
+**.text** classe para parágrafos, adiciona `font-size: 14px` e `margin: 0`.
 
 
-**.t-link** classe adicionada a links que estejam contidos em paragrafos, recebem a mesma formatação da classe **.text** com a adição da propriedade ` text-decoration: underline `.
+**.t-link** classe adicionada a links que estejam contidos em parágrafos, recebem a mesma formatação da classe **.text** com a adição da propriedade ` text-decoration: underline `.
 
 
 **.link** classe usada para links de modo geral, segue o padrão de formatação da classe **.title**.
@@ -139,7 +139,7 @@ Os produtos derveram ser setados dentro do campo "**data-sku**" separados por es
 **.banner-slider** classe que prepara os controles do plugin _bx-slider_.
 
 
-**.i-menu** classe que prepara o menu interativo, uma vez que o menu respeita a estrutura imposta neste documento.
+**.i-menu** classe que prepara o menu interativo, uma vez que o menu respeite a estrutura imposta neste documento.
 
 
 **.shelf-article** classe esperada em toda shelf, alinha elementos dentro da shelf.
