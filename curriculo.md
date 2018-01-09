@@ -8,14 +8,15 @@
 ## Sobre
 
 Olá, eu sou o Luiz Roberto.
-Tenho 23 anos, sou de Santos - SP, atualmente trabalho como Auxiliar de Gerência em Tecnologia e Desenvolvedor Front End na [Sanders Digital](http://www.sandersdigital.com.br/) onde tenho desenvolvido diversos projetos, implatações de e-commerce em diversas plataformas como VTex, EZ, Rakuten e Magento. Também com a criação de ambientes para gerenciamento e cadastro de franquias de forma dinâmica na plataforma Vtex e criação de ferramentas baseadas nas API's Vtex. Estou sempre em busca de conhecimento, colaboração na comunidade web e novos desafios.
+Tenho 24 anos, sou de Santos - SP, atualmente trabalho como Analista de Sistemas - Front End na Infracommerce onde tenho desenvolvido diversos projetos, implatações de e-commerce.
 
 ## Habilidades Web
 
 *   HTML5 / CSS3 / SCSS / JavaScript
 *   Jquery
 *   Sass /NodeJS
-*   Git / Grunt 
+*   Gulp / Grunt 
+*   VPN / Git
 *   Wordpress / Magento / VTex / EZ-Core
 
 ## Habilidades de TI, Back End
@@ -24,6 +25,11 @@ Tenho 23 anos, sou de Santos - SP, atualmente trabalho como Auxiliar de Gerênci
 *   PHP 
 
 ## Trabalhos recentes
+
+* [Jansport](http://www.jansport.com.br/) - Desenvolvimento de loja brasileira na plataforma própria da Infracommerce.
+
+* [Montblanc](https://brasil.montblanc.com/) - Desenvolvimento de loja brasileira na plataforma própria da Infracommerce.
+
 * [Danone – Sabor de Viver](http://www.sabordeviver.com.br/) - Desenvolvimento da loja atual no ambiente Vtex, implantei o sistema de desconto progressivo e hoje estou participanto de equipe de desenvolvendo da nova loja Sabor de Viver no ambiente Magento.
 
 * Cacau Show - Desenvolvimento do sistema de franquias, com integração de Dados via API Vtex e criação de raios de abrangência ao atendimento para cada franquia com inserção automática na Plataforma Vtex.
@@ -54,5 +60,7 @@ Tenho 23 anos, sou de Santos - SP, atualmente trabalho como Auxiliar de Gerênci
 
 ## Experiência
 
-*   Auxiliar de Gerência em Tecnologia / Desenvolvedor Front-End **[Sanders Digital]( http://www.sandersdigital.com.br/)**, São Paulo, SP - `02/2016 (Atual)`
+*   Analista de Sistemas Front-End **Infracommerce**, São Paulo, SP - `07/2017 - Atual`
+
+*   Auxiliar de Gerência em Tecnologia / Desenvolvedor Front-End **[Sanders Digital]( http://www.sandersdigital.com.br/)**, São Paulo, SP - `02/2016 - 06/2017`
 
