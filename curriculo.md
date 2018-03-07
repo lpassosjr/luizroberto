@@ -8,16 +8,22 @@
 ## Sobre
 
 Olá, eu sou o Luiz Roberto.
-Tenho 24 anos, sou de Santos - SP, atualmente trabalho como Analista de Sistemas - Front End na Infracommerce onde tenho desenvolvido diversos projetos, implatações de e-commerce.
+Tenho 24 anos, sou de Santos - SP, atualmente trabalho como Analista de Sistemas - Front End na Infracommerce onde tenho desenvolvido diversos projetos com implatações de e-commerce.
 
 ## Habilidades Web
 
-*   HTML5 / CSS3 / SCSS / JavaScript
+*   HTML5
+*   CSS3
+*   SCSS
+*   Sass
+*   JavaScript
 *   Jquery
-*   Sass /NodeJS
-*   Gulp / Grunt 
-*   VPN / Git
-*   Wordpress / Magento / VTex / EZ-Core
+*   NodeJS
+*   Gulp
+*   Grunt 
+*   VPN
+*   Git
+*   Wordpress / Magento / VTex / EZ-Core / WooCommerce
 
 ## Habilidades de TI, Back End
 
@@ -30,21 +36,21 @@ Tenho 24 anos, sou de Santos - SP, atualmente trabalho como Analista de Sistemas
 
 * [Montblanc](https://brasil.montblanc.com/) - Desenvolvimento de loja brasileira na plataforma própria da Infracommerce.
 
-* [Danone – Sabor de Viver](http://www.sabordeviver.com.br/) - Desenvolvimento da loja atual no ambiente Vtex, implantei o sistema de desconto progressivo e hoje estou participanto de equipe de desenvolvendo da nova loja Sabor de Viver no ambiente Magento.
+* [Danone – Sabor de Viver](http://www.sabordeviver.com.br/) - Desenvolvimento da loja atual no ambiente Vtex, implantei o sistema de desconto progressivo e da nova loja Sabor de Viver no ambiente Magento.
 
 * Cacau Show - Desenvolvimento do sistema de franquias, com integração de Dados via API Vtex e criação de raios de abrangência ao atendimento para cada franquia com inserção automática na Plataforma Vtex.
 
-* Suvinil - Criação de raios de abrangência (sem o uso de API). Delimitando o atendimento para cada franquia com inserção automática na Plataforma Vtex.
+* Suvinil - Criação de ferramenta para criação e inserção dos raios de abrangência (sem o uso de API). Delimitando o atendimento para cada franquia na Plataforma Vtex.
 
 * [Chevrolet Fan Store](http://www.chevroletfanstore.com.br/) - Desenvolvimento da loja no ambiente Vtex.
 
 * [Pierre Cardin Store](http://store.pierrecardin.com.br/) - Desenvolvimento da loja no ambiente Vtex.
 
-* [Empório Santa Luzia](http://www.natalsantaluzia.com.br/) - Desenvolvimento da loja no ambiente Vtex e criei o sistema de integração do ambiente com o ERP da loja física.
+* [Empório Santa Luzia](http://www.natalsantaluzia.com.br/) - Desenvolvimento da loja no ambiente Vtex e criação do sistema de integração do ambiente com o ERP da loja física.
 
 * [Flutuar Surf](http://www.lojaflutuar.com.br/) - Desenvolvimento da loja no ambiente Vtex.
 
-* [Purificadores Europa](http://www.europa.com.br/) - Desenvolvimento da loja no ambiente Vtex e com o WordPress.
+* [Purificadores Europa](http://www.europa.com.br/) - Desenvolvimento da loja no ambiente Vtex e Blog WordPress.
 
 ## Formação
 
