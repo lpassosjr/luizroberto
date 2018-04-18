@@ -55,12 +55,14 @@ Tenho 24 anos, sou de Santos - SP, atualmente trabalho como Desenvolvedor Front 
 `2015` - Lógica de programação  
  **SENAI São Paulo**
  
-`2011 – 2013` - Licenciatura em Matemática 
+`2011 – 2013` - Licenciatura em Matemática  
  **IF-SP - Instituto Federal de Educação Ciências e Tecnologia**
 
 
 ## Experiência
 
-*   Desenvolvedor Front-End Pleno **[Infracommerce](http://www.infracommerce.com.br)**, São Paulo, SP - `07/2017 - Atualmente`
+*   Desenvolvedor Front-End Pleno 
+**[Infracommerce](http://www.infracommerce.com.br)**, São Paulo, SP - `07/2017 - Atualmente`
 
-*   Auxiliar de Gerência em Tecnologia / Desenvolvedor Front-End **[Sanders Digital]( http://www.sandersdigital.com.br/)**, São Paulo, SP - `02/2015 - 06/2017`
+*   Auxiliar de Gerência em Tecnologia / Desenvolvedor Front-End 
+**[Sanders Digital]( http://www.sandersdigital.com.br/)**, São Paulo, SP - `02/2015 - 06/2017`
