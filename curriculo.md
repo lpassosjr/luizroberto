@@ -56,7 +56,7 @@ Tenho 24 anos, sou de Santos - SP, atualmente trabalho como Desenvolvedor Front 
  **SENAI São Paulo**
  
 `2011 – 2013` - Licenciatura em Matemática 
-**IF-SP - Instituto Federal de Educação Ciências e Tecnologia**
+ **IF-SP - Instituto Federal de Educação Ciências e Tecnologia**
 
 
 ## Experiência
