@@ -8,24 +8,29 @@
 ## Sobre
 
 Olá, eu sou o Luiz Roberto.
-Tenho 24 anos, sou de Santos - SP, atualmente trabalho como Desenvolvedor Front End Pleno na Infracommerce onde tenho desenvolvido diversos projetos com implatações e criação de ferramentas com foco em e-commerce.
+Tenho 24 anos, sou de Santos - SP, atuo como Desenvolvedor Front End Pleno, tenho desenvolvido diversos projetos com implatações e criação de ferramentas com foco em e-commerce e projetos institucionais.
 
 ## Habilidades Web
 
 *   HTML5
 *   CSS3
-*   JavaScript
 *   Sass
+*   JavaScript
 *   Jquery
 *	React
-*   NodeJS
+*	Handlebars / Mustache
+*   NodeJs
+*   ExpressJs
 *   Gulp / Grunt 
 *   Git / SVN
-*   Wordpress / Magento / VTex / EZ-Core / WooCommerce
-*   PHP 
 *   Mysql
+*   MongoDB
+*   PHP
+*   Wordpress / Magento / VTex / EZ-Core / WooCommerce
 
 ## Projetos
+
+* [Unilever](http://www.compraunilever.com.br/) - Desenvolvimento de loja B2B na plataforma própria da Infracommerce.
 
 * [Montblanc Mexico](http://www.montblanc.com.mx/) - Desenvolvimento de loja mexicana na plataforma própria da Infracommerce. Projeto este que recebeu o eAwards México 2018 - eShow México na categoria "Melhor experiência de usuário"
 
@@ -55,14 +60,12 @@ Tenho 24 anos, sou de Santos - SP, atualmente trabalho como Desenvolvedor Front 
 `2015` - Lógica de programação  
  **SENAI São Paulo**
  
-`2011 – 2013` - Licenciatura em Matemática  
- **IF-SP - Instituto Federal de Educação Ciências e Tecnologia**
+`2011 – 2013` - Licenciatura em Matemática 
+**IF-SP - Instituto Federal de Educação Ciências e Tecnologia**
 
 
 ## Experiência
 
-*   Desenvolvedor Front-End Pleno 
-**[Infracommerce](http://www.infracommerce.com.br)**, São Paulo, SP - `07/2017 - Atualmente`
+*   Desenvolvedor Front-End Pleno **[Infracommerce](http://www.infracommerce.com.br)**, São Paulo, SP - `07/2017 - 04/2018`
 
-*   Auxiliar de Gerência em Tecnologia / Desenvolvedor Front-End 
-**[Sanders Digital]( http://www.sandersdigital.com.br/)**, São Paulo, SP - `02/2015 - 06/2017`
+*   Auxiliar de Gerência em Tecnologia / Desenvolvedor Front-End **[Sanders Digital]( http://www.sandersdigital.com.br/)**, São Paulo, SP - `02/2015 - 06/2017`
