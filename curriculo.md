@@ -66,6 +66,6 @@ Tenho 24 anos, sou de Santos - SP, atuo como Desenvolvedor Front End Pleno, tenh
 
 ## Experiência
 
-*   Desenvolvedor Front-End Pleno **[Infracommerce](http://www.infracommerce.com.br)**, São Paulo, SP - `07/2017 - 04/2018`
+*   Desenvolvedor Front-End Pleno **[Infracommerce](http://www.infracommerce.com.br)**, São Paulo, SP - `07/2017 - Atual`
 
 *   Auxiliar de Gerência em Tecnologia / Desenvolvedor Front-End **[Sanders Digital]( http://www.sandersdigital.com.br/)**, São Paulo, SP - `02/2015 - 06/2017`
