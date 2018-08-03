@@ -17,8 +17,7 @@ Tenho 24 anos, sou de Santos - SP, atuo como Desenvolvedor Front End Pleno, tenh
 *   Sass
 *   JavaScript
 *   Jquery
-*	React
-*	Handlebars / Mustache
+*   Handlebars / Mustache
 *   NodeJs
 *   ExpressJs
 *   Gulp / Grunt 
@@ -60,12 +59,15 @@ Tenho 24 anos, sou de Santos - SP, atuo como Desenvolvedor Front End Pleno, tenh
 `2015` - Lógica de programação  
  **SENAI São Paulo**
  
-`2011 – 2013` - Licenciatura em Matemática 
-**IF-SP - Instituto Federal de Educação Ciências e Tecnologia**
+`2018` - Sistemas para Internet 
+**Uninove** cursando
 
 
 ## Experiência
 
-*   Desenvolvedor Front-End Pleno **[Infracommerce](http://www.infracommerce.com.br)**, São Paulo, SP - `07/2017 - Atual`
+*   Desenvolvedor Front-End **[Accurate](http://www.accurate.com.br)**, São Paulo, SP - `07/2018`
+
+
+*   Desenvolvedor Front-End **[Infracommerce](http://www.infracommerce.com.br)**, São Paulo, SP - `07/2017 - 07/2018`
 
 *   Auxiliar de Gerência em Tecnologia / Desenvolvedor Front-End **[Sanders Digital]( http://www.sandersdigital.com.br/)**, São Paulo, SP - `02/2015 - 06/2017`
