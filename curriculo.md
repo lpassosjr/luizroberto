@@ -29,6 +29,8 @@ Tenho 24 anos, sou de Santos - SP, atuo como Desenvolvedor Front End Pleno, tenh
 
 ## Projetos
 
+* [Walmart](http://www.walmart.com.br/) - Atuação com o time de Growth Hacking.
+
 * [Unilever](http://www.compraunilever.com.br/) - Desenvolvimento de loja B2B na plataforma própria da Infracommerce.
 
 * [Montblanc Mexico](http://www.montblanc.com.mx/) - Desenvolvimento de loja mexicana na plataforma própria da Infracommerce. Projeto este que recebeu o eAwards México 2018 - eShow México na categoria "Melhor experiência de usuário"
@@ -47,9 +49,6 @@ Tenho 24 anos, sou de Santos - SP, atuo como Desenvolvedor Front End Pleno, tenh
 
 * [Empório Santa Luzia](http://www.natalsantaluzia.com.br/) - Desenvolvimento da loja no ambiente Vtex e criação do sistema de integração do ambiente com o ERP da loja física.
 
-* [Flutuar Surf](http://www.lojaflutuar.com.br/) - Desenvolvimento da loja no ambiente Vtex.
-
-* [Purificadores Europa](http://www.europa.com.br/) - Desenvolvimento da loja no ambiente Vtex e Blog WordPress.
 
 ## Formação
 
@@ -67,7 +66,6 @@ Tenho 24 anos, sou de Santos - SP, atuo como Desenvolvedor Front End Pleno, tenh
 
 *   Desenvolvedor Front-End **[Accurate](http://www.accurate.com.br)**, São Paulo, SP - `07/2018`
 
-
 *   Desenvolvedor Front-End **[Infracommerce](http://www.infracommerce.com.br)**, São Paulo, SP - `07/2017 - 07/2018`
 
-*   Auxiliar de Gerência em Tecnologia / Desenvolvedor Front-End **[Sanders Digital]( http://www.sandersdigital.com.br/)**, São Paulo, SP - `02/2015 - 06/2017`
+*   Desenvolvedor Front-End **[Sanders Digital]( http://www.sandersdigital.com.br/)**, São Paulo, SP - `02/2015 - 06/2017`
