@@ -43,8 +43,6 @@ Especialidades: Desenvolvimento Front-End (Html, CSS e Javascript) focando em us
 
 * [Jansport](http://www.jansport.com.br/) - Desenvolvimento de loja brasileira na plataforma própria da Infracommerce.
 
-* [Danone – Sabor de Viver](http://www.sabordeviver.com.br/) - Desenvolvimento da loja atual no ambiente Vtex, implantei o sistema de desconto progressivo e da nova loja Sabor de Viver no ambiente Magento.
-
 * Cacau Show - Desenvolvimento do sistema de franquias, com integração de Dados via API Vtex e criação de raios de abrangência ao atendimento para cada franquia com inserção automática na Plataforma Vtex.
 
 * Suvinil - Criação de ferramenta para criação e inserção dos raios de abrangência com uso de API. Delimitando o atendimento para cada franquia na Plataforma Vtex.
@@ -52,8 +50,6 @@ Especialidades: Desenvolvimento Front-End (Html, CSS e Javascript) focando em us
 * [Chevrolet Fan Store](http://www.chevroletfanstore.com.br/) - Desenvolvimento da loja no ambiente Vtex.
 
 * [Pierre Cardin Store](http://store.pierrecardin.com.br/) - Desenvolvimento da loja no ambiente Vtex.
-
-* [Empório Santa Luzia](http://www.natalsantaluzia.com.br/) - Desenvolvimento da loja no ambiente Vtex e criação do sistema de integração do ambiente com o ERP da loja física.
 
 
 ## Formação
