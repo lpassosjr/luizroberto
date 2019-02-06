@@ -2,13 +2,14 @@
 
 #### Desenvolvedor Front End
 
-[lpassosjr@gmail.com](mailto:lpassosjr@gmail.com) | [Github](http://github.com/lpassosjr) | Telefone: [+5513996377671](tel:+5513996377671) | [LinkedIn]( https://www.linkedin.com/in/luiz-roberto-g-dos-passos-junior-55a891109/)
+[lpassosjr@gmail.com](mailto:lpassosjr@gmail.com) | [Github](http://github.com/lpassosjr) | Telefone: [+5511987040274](tel:+5511987040274) | [LinkedIn]( https://www.linkedin.com/in/luiz-roberto-g-dos-passos-junior-55a891109/)
 
 
 ## Sobre
 
 Olá, eu sou o Luiz Roberto.
-Tenho 24 anos, sou de Santos - SP, atuo como Desenvolvedor Front End Pleno, tenho desenvolvido diversos projetos com implatações e criação de ferramentas com foco em e-commerce e projetos institucionais.
+Desenvolvedor Front-End a 4 anos, atuando com foco em desenvolvimento e soluções para e-Commerce vinculados com metodologias ágeis como Scrum e Kanban. 
+Especialidades: Desenvolvimento Front-End (Html, CSS e Javascript) focando em usabilidade e performance em e-Commerce e ferramentas para gestão de marketplaces.
 
 ## Habilidades Web
 
@@ -16,14 +17,19 @@ Tenho 24 anos, sou de Santos - SP, atuo como Desenvolvedor Front End Pleno, tenh
 *   CSS3
 *   Sass
 *   JavaScript
+*   React
 *   Jquery
-*   Handlebars / Mustache
+*   Handlebars
+*   DustJs
+*   Mustache
 *   NodeJs
 *   ExpressJs
 *   Gulp / Grunt 
 *   Git / SVN
 *   Mysql
+*   SQL
 *   MongoDB
+*   Firebase
 *   PHP
 *   Wordpress / Magento / VTex / EZ-Core / WooCommerce
 
