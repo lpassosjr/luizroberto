@@ -8,32 +8,29 @@
 ## Sobre
 
 Olá, eu sou o Luiz Roberto.
-Desenvolvedor Front-End a 4 anos, atuando com foco em desenvolvimento e soluções para e-Commerce vinculados com metodologias ágeis como Scrum e Kanban. 
-Especialidades: Desenvolvimento Front-End (Html, CSS e Javascript) focando em usabilidade e performance em e-Commerce e ferramentas para gestão de marketplaces.
+Desenvolvedor Front-End Senior a 5 anos atuando com foco em soluções Javascript com React e NodeJS
+Atualmente liderando o time de desenvolvimento alocado para o Banco GMF, desenhando e construindo soluções para o sistema de financiamento do banco GMF.
 
-## Habilidades Web
+## Habilidades
 
 *   HTML5
 *   CSS3
 *   Sass
 *   JavaScript
 *   React
-*   Jquery
 *   Handlebars
-*   DustJs
-*   Mustache
 *   NodeJs
-*   ExpressJs
 *   Gulp / Grunt 
 *   Git / SVN
 *   Mysql
 *   SQL
 *   MongoDB
 *   Firebase
-*   PHP
 *   Wordpress / Magento / VTex / EZ-Core / WooCommerce
 
 ## Projetos
+
+* [Chevrolet Digital](https://chevroletdigital.com.br/) - Desenvolvimento do simulador de veículos para cliente final, sistema de consorcio e sistema interno de simulação para concessionárias.
 
 * [Walmart](http://www.walmart.com.br/) - Atuação com o time de Growth Hacking.
 
@@ -60,14 +57,14 @@ Especialidades: Desenvolvimento Front-End (Html, CSS e Javascript) focando em us
 `2015` - Lógica de programação  
  **SENAI São Paulo**
  
-`2018` - Sistemas para Internet 
-**Uninove** cursando
+`2020` - CS50x
+ **Harvard** - (Cursando)
 
 
 ## Experiência
 
-*   Desenvolvedor Front-End **[Accurate](http://www.accurate.com.br)**, São Paulo, SP - `07/2018`
+*   Analista Senior/Tech lead Front-End **[Accurate](http://www.accurate.com.br)**, São Paulo, SP - `07/2018`
 
 *   Desenvolvedor Front-End **[Infracommerce](http://www.infracommerce.com.br)**, São Paulo, SP - `07/2017 - 07/2018`
 
-*   Desenvolvedor Front-End **[Sanders Digital]( http://www.sandersdigital.com.br/)**, São Paulo, SP - `02/2015 - 06/2017`
+*   Desenvolvedor Front-End **[Sanders Digital](http://www.sandersdigital.com.br)**, São Paulo, SP - `02/2015 - 06/2017`
