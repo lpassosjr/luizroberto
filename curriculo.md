@@ -1,34 +1,38 @@
 # Luiz Roberto Gonçalves dos Passos Junior
 
-#### Desenvolvedor Front End
+#### Software engineering specialist
 
-[lpassosjr@gmail.com](mailto:lpassosjr@gmail.com) | [Github](http://github.com/lpassosjr) | Telefone: [+5511987040274](tel:+5511987040274) | [LinkedIn]( https://www.linkedin.com/in/luiz-roberto-g-dos-passos-junior-55a891109/)
+[lpassosjr@gmail.com](mailto:lpassosjr@gmail.com) | [Github](http://github.com/lpassosjr) | Telefone: [+5511987040274](tel:+5511987040274) | [LinkedIn](https://www.linkedin.com/in/luizrpassos/)
 
 
 ## Sobre
 
 Olá, eu sou o Luiz Roberto.
-Desenvolvedor Front-End Senior a 5 anos atuando com foco em soluções Javascript com React e NodeJS
-Atualmente liderando o time de desenvolvimento alocado para o Banco GMF, desenhando e construindo soluções para o sistema de financiamento do banco GMF.
+Desenvolvedor Full Stack atuando com foco em soluções em Javascript (NodeJS, React e React-Native).
+
+Atualmente com as atribuições:
+● Liderar o time de desenvolvimento Mobile (SwiftUI e Kotlin) e Web (React, NodeJS e Java)
+● Desenvolver, manter soluções e auxiliar o time de desenvolvimento.
+● Análise e criação de integrações com sistemas internos e externos.
+● Criação de documentações, detalhamentos e especificações técnicas.
 
 ## Habilidades
 
 *   HTML5
 *   CSS3
-*   Sass
 *   JavaScript
 *   React
-*   Handlebars
+*   React-native
 *   NodeJs
-*   Gulp / Grunt 
-*   Git / SVN
+*   Git
 *   Mysql
 *   SQL
 *   MongoDB
 *   Firebase
-*   Wordpress / Magento / VTex / EZ-Core / WooCommerce
 
 ## Projetos
+
+* [Grupo Casas Bahia](https://www.casasbahia.com.br/) - Como Engenheiro de software especialista na Via tenho atuado liderando time de desevolvimento Web e Mobile nas frentes de Carrinho e Checkout 
 
 * [Chevrolet Digital](https://chevroletdigital.com.br/) - Desenvolvimento do simulador de veículos para cliente final, sistema de consorcio e sistema interno de simulação para concessionárias.
 
@@ -40,9 +44,9 @@ Atualmente liderando o time de desenvolvimento alocado para o Banco GMF, desenha
 
 * [Jansport](http://www.jansport.com.br/) - Desenvolvimento de loja brasileira na plataforma própria da Infracommerce.
 
-* Cacau Show - Desenvolvimento do sistema de franquias, com integração de Dados via API Vtex e criação de raios de abrangência ao atendimento para cada franquia com inserção automática na Plataforma Vtex.
+* Cacau Show - Desenvolvimento do sistema de franquias, com integração de Dados via API Vtex.
 
-* Suvinil - Criação de ferramenta para criação e inserção dos raios de abrangência com uso de API. Delimitando o atendimento para cada franquia na Plataforma Vtex.
+* Suvinil - Criação de ferramenta propria para integração de franquias com a plataforma Vtex.
 
 * [Chevrolet Fan Store](http://www.chevroletfanstore.com.br/) - Desenvolvimento da loja no ambiente Vtex.
 
@@ -50,21 +54,19 @@ Atualmente liderando o time de desenvolvimento alocado para o Banco GMF, desenha
 
 
 ## Formação
+ 
+`2022` - Computação em Nuvem (técnologo)
+ **Anhanguera Ampli** - (Cursando ultimo semestre)
 
 `2010` - Ensino Médio  
  **Leopoldo José de Sant’anna**
 
-`2015` - Lógica de programação  
- **SENAI São Paulo**
- 
-`2020` - CS50x
- **Harvard** - (Cursando)
-
-
 ## Experiência
 
-*   Analista Senior/Tech lead Front-End **[Accurate](http://www.accurate.com.br)**, São Paulo, SP - `07/2018`
+*   Software engineering specialist **[Grupo Casas Bahia (Via Hub)](https://www.casasbahia.com.br/)**, São Paulo, SP - `10/2021`
 
-*   Desenvolvedor Front-End **[Infracommerce](http://www.infracommerce.com.br)**, São Paulo, SP - `07/2017 - 07/2018`
+*   Analista Senior/Tech lead Front-End **[Accurate Software](http://www.accurate.com.br)**, São Paulo, SP - `07/2018 - 11/2021`
+
+*   Desenvolvedor Front-End **[Infracommerce](http://www.infracommerce.com.br)**, São Paulo, SP - `06/2017 - 07/2018`
 
 *   Desenvolvedor Front-End **[Sanders Digital](http://www.sandersdigital.com.br)**, São Paulo, SP - `02/2015 - 06/2017`
