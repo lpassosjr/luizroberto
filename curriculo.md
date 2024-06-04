@@ -11,10 +11,11 @@ Olá, eu sou o Luiz Roberto.
 Desenvolvedor Full Stack atuando com foco em soluções em Javascript (NodeJS, React e React-Native).
 
 Atualmente com as atribuições:
-● Liderar o time de desenvolvimento Mobile (SwiftUI e Kotlin) e Web (React, NodeJS e Java)
-● Desenvolver, manter soluções e auxiliar o time de desenvolvimento.
-● Análise e criação de integrações com sistemas internos e externos.
-● Criação de documentações, detalhamentos e especificações técnicas.
+
+* Liderar o time de desenvolvimento Mobile (SwiftUI e Kotlin) e Web (React, NodeJS e Java)
+* Desenvolver, manter soluções e auxiliar o time de desenvolvimento.
+* Análise e criação de integrações com sistemas internos e externos.
+* Criação de documentações, detalhamentos e especificações técnicas.
 
 ## Habilidades
 
@@ -27,10 +28,15 @@ Atualmente com as atribuições:
 *   Git
 *   Mysql
 *   SQL
+*   PostgreSQL
 *   MongoDB
 *   Firebase
+*   Power BI
+*   Flutter
 
 ## Projetos
+
+* [Gaia Consultoria Ambiental](gaiadatabase.com.br) - Como consultor independente, atuei projetando e desenvolvendo o sistema de gestão ambiental para armazenar, exibir e cruzar dados internos de flora e fauna.
 
 * [Grupo Casas Bahia](https://www.casasbahia.com.br/) - Como Engenheiro de software especialista na Via tenho atuado liderando time de desevolvimento Web e Mobile nas frentes de Carrinho e Checkout 
 
